@@ -79,7 +79,7 @@ const HeroSection = () => {
           </>
         ) : (
           <video
-            src="/videos/Herobg.mp4"
+            src="/videos/Hero2.mp4"
             autoPlay
             muted
             playsInline
@@ -107,7 +107,7 @@ const HeroSection = () => {
           </h2>
 
           <div className="hero-button">
-            <p>Chug a SPYLT</p>
+            <p>TASTE BOLD</p>
           </div>
         </div>
       </div>

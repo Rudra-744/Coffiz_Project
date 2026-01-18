@@ -15,6 +15,7 @@ const flavorlists = [
     name: "Cookies & Cream",
     color: "blue",
     rotation: "md:rotate-[-8deg] rotate-0",
+    customImg: "/cofeezimg/blue.png",
   },
   {
     name: "Caramel",
